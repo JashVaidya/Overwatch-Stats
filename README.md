@@ -18,4 +18,3 @@ It will then create a text file with the user's skill information.
 
 The program will generate a text file named "player-info.txt" in the directory of your assigned workspace.
 
-
