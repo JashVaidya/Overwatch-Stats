@@ -4,7 +4,7 @@ This is a Java program that takes an input of PS4 users who play Overwatch.
 It will then create a text file with the user's skill information.
 
 
-#How to use
+# How to use
 
 1. Import the OverwatchStats.java file into your choice of IDE or do it from the command line.
 
@@ -18,11 +18,11 @@ It will then create a text file with the user's skill information.
 
 The program will generate a text file named "player-info.txt" in the directory of your assigned workspace.
 
-#Example Input
+# Example Input
 
 lll-VOLTAG3-lll
 OG_Stumpy
 
-#Example Output
+# Example Output
 
 ![Screenshot](https://i.imgur.com/dnx4zgt.png)
