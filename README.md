@@ -25,4 +25,4 @@ OG_Stumpy
 
 #Example Output
 
-https://i.imgur.com/dnx4zgt.png
+[Img](https://i.imgur.com/dnx4zgt.png)
