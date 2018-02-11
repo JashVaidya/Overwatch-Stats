@@ -19,10 +19,12 @@ It will then create a text file with the user's skill information.
 The program will generate a text file named "player-info.txt" in the directory of your assigned workspace.
 
 #Example Input
+
 lll-VOLTAG3-lll
 OG_Stumpy
 
 #Example Output
+
 Username: lll-VOLTAG3-lll
 Player level: 527
 Skill Rating: 70%
