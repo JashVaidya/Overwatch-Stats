@@ -10,7 +10,7 @@ It will then create a text file with the user's skill information.
 
 2. Download [jsoup](https://jsoup.org/) and import the jar file into your library.
 
-3. Change ```Java File file = new File("/Users/jash/Desktop/users.txt");``` to fit your description.
+3. Change ```File file = new File("/Users/jash/Desktop/users.txt");``` to fit your description.
 
 4. users.txt is the input file. Simply change it to supply any amount of PS4 users.
 
