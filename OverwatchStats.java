@@ -1,6 +1,6 @@
 /**
  *
- * Project4Driver runs the web scraper that retrieves a user's skill data from Overwatch
+ * OverwatchStats runs the web scraper that retrieves a user's skill data from Overwatch
  * @author Jash Vaidya
  * @version 1.0
  */
@@ -15,7 +15,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 
-public class Project4Driver {
+public class OverwatchStats {
 
     public static void main(String[] args) throws Exception {
 
