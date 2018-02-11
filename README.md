@@ -21,6 +21,7 @@ The program will generate a text file named "player-info.txt" in the directory o
 # Example Input
 
 lll-VOLTAG3-lll
+
 OG_Stumpy
 
 # Example Output
