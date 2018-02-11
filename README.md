@@ -8,7 +8,7 @@ It will then create a text file with the user's skill information.
 
 1. Import the OverwatchStats.java file into your choice of IDE or do it from the command line.
 
-2. [Download](https://jsoup.org/) jsoup and import the jar file into your library.
+2. Download[jsoup](https://jsoup.org/) and import the jar file into your library.
 
 3. Change File file = new File("/Users/jash/Desktop/users.txt"); to fit your description.
 
